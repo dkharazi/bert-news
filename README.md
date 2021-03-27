@@ -1,1 +1,1 @@
-# bert-media
+# bert-news
