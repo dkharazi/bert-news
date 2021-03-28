@@ -1,0 +1,1 @@
+docker build -t news_img -f ./Dockerfile .
