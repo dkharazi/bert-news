@@ -14,7 +14,9 @@
 	- A better way may have been to manually go through each of the unclassified articles and assign them to a cluster myself
 	- However, it would have taken a lot of time to do this, so I justed synthetically did this using SMOTE
 	- [Here's a resource for other possible sampling techniques](https://towardsdatascience.com/how-i-handled-imbalanced-text-data-ba9b757ab1d8)
-
+- Evaluated model with SMOTEN data and model without SMOTEN data
+	- Both had about 90% accuracy
+	- So, kept model with SMOTEN data
 
 1. Download [All the News data](https://www.kaggle.com/snapcrack/all-the-news) from Kaggle
     - Consists of news articles for a given publications
