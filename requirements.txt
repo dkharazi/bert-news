@@ -44,4 +44,5 @@ transformers==4.4.2
 typing-extensions==3.7.4.3
 umap-learn==0.5.1
 urllib3==1.26.4
+xgboost==1.4.0
 zipp==3.4.1
