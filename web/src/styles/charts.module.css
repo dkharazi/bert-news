@@ -1,0 +1,119 @@
+.container {
+    padding: 1rem;
+}
+
+.subheader {
+    background-color: #fff !important;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+
+.tfidf {
+    color: #137333;
+    background-color: #e6f4ea;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.chart {
+    height: 500px;
+}
+
+.baseball {
+    color: #FA0087 !important;
+}
+
+.basketball {
+    color: #F7E1A0 !important;
+}
+
+.brexit {
+    color: #B10DA1 !important;
+}
+
+.business-and-finance {
+    color: #1CBE4F !important;
+}
+
+.crime {
+    color: #2ED9FF !important;
+}
+
+.cuba-relations {
+    color: #C4451C !important;
+}
+
+.food {
+    color: #325A9B !important;
+}
+
+.football {
+    color: #B00068 !important;
+}
+
+.global-warming {
+    color: #FC1CBF !important;
+}
+
+.lgbtq-discrimination {
+    color: #DEA0FD !important;
+}
+
+.medical-research {
+    color: #AA0DFE !important;
+}
+
+.music {
+    color: #782AB6 !important;
+}
+
+.nazism-and-syrian-refugee-crisis {
+    color: #FE00FA !important;
+}
+
+.nuclear {
+    color: #16FF32 !important;
+}
+
+.olympics {
+    color: #F8A19F !important;
+}
+
+.politics {
+    color: #FBE426 !important;
+}
+
+.pop-culture-and-entertainment {
+    color: #565656 !important;
+}
+
+.protesting-and-activism {
+    color: #E2E2E2 !important;
+}
+
+.real-estate {
+    color: #85660D !important;
+}
+
+.segregation-and-racial-discrimination {
+    color: #F6222E !important;
+}
+
+.space {
+    color: #C075A6 !important;
+}
+
+.technology-and-data-privacy {
+    color: #90AD1C !important;
+}
+
+.terrorism-and-war {
+    color: #1CFFCE !important;
+}
+
+.us-illegal-immigration {
+    color: #1C8356 !important;
+}
+
+.widespread-disease {
+    color: #FEAF16 !important;
+}
