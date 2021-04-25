@@ -30,6 +30,7 @@
 Clustering on BERT Word Embeddings
 - [Code Example of K-Means Clustering on Embeddings](https://www.sbert.net/examples/applications/clustering/README.html#topic-modeling)
 - [How to Get Sentence Embeddings using BERT](https://datascience.stackexchange.com/a/65165/93566)
+- [Unsupervised Clustering on Media Data](https://www.kaggle.com/miguelniblock/predict-the-author-unsupervised-nlp-lsa-and-bow)
 
 Topic Modeling References
 - [Example of Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6)
