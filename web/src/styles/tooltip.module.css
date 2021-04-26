@@ -1,0 +1,139 @@
+.tooltip {
+    background: white;
+    color: inherit;
+    font-size: inherit;
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 1px 2px;
+    padding: 5px 9px;
+}
+
+.text {
+    white-space: pre;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.break {
+    margin-top: 2px;
+    flex-basis: 100%;
+    height: 0;
+}
+
+.block {
+    display: block;
+    width: 12px;
+    height: 12px;
+    margin-right: 7px;
+    border-radius: 2px;
+}
+
+.topicText {
+    flex-grow: 1;
+    font-weight: bold;
+}
+
+.topic {
+    display: inline-flex;
+    align-items: center;
+}
+
+.baseball {
+    background: #FA0087 !important;
+}
+
+.basketball {
+    background: #F7E1A0 !important;
+}
+
+.brexit {
+    background: #B10DA1 !important;
+}
+
+.business-and-finance {
+    background: #1CBE4F !important;
+}
+
+.crime {
+    background: #2ED9FF !important;
+}
+
+.cuba-relations {
+    background: #C4451C !important;
+}
+
+.food {
+    background: #325A9B !important;
+}
+
+.football {
+    background: #B00068 !important;
+}
+
+.global-warming {
+    background: #FC1CBF !important;
+}
+
+.lgbtq-discrimination {
+    background: #DEA0FD !important;
+}
+
+.medical-research {
+    background: #AA0DFE !important;
+}
+
+.music {
+    background: #782AB6 !important;
+}
+
+.nazism-and-syrian-refugee-crisis {
+    background: #FE00FA !important;
+}
+
+.nuclear {
+    background: #16FF32 !important;
+}
+
+.olympics {
+    background: #F8A19F !important;
+}
+
+.politics {
+    background: #FBE426 !important;
+}
+
+.pop-culture-and-entertainment {
+    background: #565656 !important;
+}
+
+.protesting-and-activism {
+    background: #E2E2E2 !important;
+}
+
+.real-estate {
+    background: #85660D !important;
+}
+
+.segregation-and-racial-discrimination {
+    background: #F6222E !important;
+}
+
+.space {
+    background: #C075A6 !important;
+}
+
+.technology-and-data-privacy {
+    background: #90AD1C !important;
+}
+
+.terrorism-and-war {
+    background: #1CFFCE !important;
+}
+
+.us-illegal-immigration {
+    background: #1C8356 !important;
+}
+
+.widespread-disease {
+    background: #FEAF16 !important;
+}

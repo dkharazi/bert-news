@@ -3,17 +3,6 @@ body {
   background-color: #fafafa;
 }
 
-.container {
-  max-width: 46rem;
-  margin: auto !important;
-}
-
-@media (min-width: 68em) {
-  .container {
-    max-width: 64rem;
-  }
-}
-
 header {
   font-size: 1.5rem;
   font-weight: bold;

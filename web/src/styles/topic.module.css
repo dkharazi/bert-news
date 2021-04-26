@@ -1,0 +1,19 @@
+.formLabel {
+    color: rgba(0, 0, 0, 0.54) !important;
+}
+
+.radioGroup {
+    display: inline !important;
+}
+
+.tfidf {
+    color: #137333;
+    background-color: #e6f4ea;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.subheader {
+    background-color: #fff !important;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}

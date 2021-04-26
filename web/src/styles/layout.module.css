@@ -1,0 +1,18 @@
+.topicChartContainer {
+    height: 500px;
+}
+
+.appContainer {
+    max-width: 46rem;
+    margin: auto !important;
+}
+  
+@media (min-width: 68em) {
+    .appContainer {
+        max-width: 64rem;
+    }
+}
+
+.topicContainer {
+    padding: 1rem;
+}
