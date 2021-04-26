@@ -30,6 +30,9 @@
 Clustering on BERT Word Embeddings
 - [Code Example of K-Means Clustering on Embeddings](https://www.sbert.net/examples/applications/clustering/README.html#topic-modeling)
 - [How to Get Sentence Embeddings using BERT](https://datascience.stackexchange.com/a/65165/93566)
+- [Unsupervised Clustering on Media Data](https://www.kaggle.com/miguelniblock/predict-the-author-unsupervised-nlp-lsa-and-bow)
+- [Kaggle Analysis for Dimensionality Reduction using uMAP and tSNE](https://www.kaggle.com/vinayshanbhag/dimensionality-reduction-tsne-umap)
+- [Example of using kMeans with SBERT](https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/clustering/kmeans.py)
 
 Topic Modeling References
 - [Example of Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6)
