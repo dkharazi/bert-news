@@ -7,10 +7,10 @@ import {
 } from '@material-ui/core';
 import colorStyles from '../styles/color.module.css'
 import topicStyles from '../styles/topic.module.css'
-import topicsJson from '../data/topics.json';
+import topicsJson from '../data/uniqueTopics.json';
 
 
-const TopicLegend = ({ topic, handleChangeTopic }) => {
+const Legend = ({ topic, handleChangeTopic }) => {
 
     // Helper function for building topic labels for legend
     const topicButtons = topicsJson.topics.map((t) => {
@@ -47,4 +47,4 @@ const TopicLegend = ({ topic, handleChangeTopic }) => {
     );
 }
 
-export default TopicLegend;
+export default Legend;

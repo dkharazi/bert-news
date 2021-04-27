@@ -1,16 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-import NewsBar from './components/NewsBar'
-import TopicChart from './components/TopicChart';
-import TopicLegend from './components/TopicLegend';
-import TopicWords from './components/TopicWords';
-
 import { Grid, Paper } from '@material-ui/core';
-import layoutStyles from './styles/layout.module.css'
-import './styles/index.css';
 
-import newsJson from './data/news.json';
+import NewsBar from './components/NewsBar';
+import Topic from './components/Topic';
+import Publication from './components/Publication';
+
+import layoutStyles from './styles/layout.module.css';
+import './styles/index.css';
 
 
 const Index = () => {
@@ -18,6 +15,7 @@ const Index = () => {
 	// Define state variables
 	const [tab, setTab] = React.useState(0);
 	const [topic, setTopic] = React.useState('Baseball');
+	console.log(tab);
 
 	// Define state handlers
 	const handleChangeTab = (event, newTab) => { setTab(newTab); };
@@ -35,26 +33,11 @@ const Index = () => {
 					handleChangeTab={handleChangeTab}
 				/>
 			</Grid>
-			<Paper className={layoutStyles.topicContainer}>
-				<Grid container>
-					<Grid item xs={6} container direction="column">
-						<Grid item className={layoutStyles.topicChartContainer}>
-							<TopicChart topicData={newsJson.topics_data} />
-						</Grid>
-						<Grid item>
-							<TopicLegend
-								topic={topic}
-								handleChangeTopic={handleChangeTopic}
-							/>
-						</Grid>
-					</Grid>
-					<Grid item xs={6}>
-						<TopicWords
-							tfidfData={newsJson.tfidf_data[topic]}
-						/>
-					</Grid>
-				</Grid>
-			</Paper>
+			<Grid item xs={12}>
+				<Paper className={layoutStyles.topicContainer}>
+					{!tab ? <Topic topic={topic} handleChangeTopic={handleChangeTopic} /> : <Publication />}
+				</Paper>
+			</Grid>
 		</Grid>
 	);
 }

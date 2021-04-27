@@ -5,14 +5,16 @@ import {
     ListItem,
     ListItemText
 } from '@material-ui/core';
+
 import topicStyles from '../styles/topic.module.css';
 import layoutStyles from '../styles/layout.module.css';
+import tfidfJson from '../data/tfidf.json';
 
 
-const TopicWords = ({ tfidfData }) => {
+const TopicWords = ({ topic }) => {
 
     // Helper function for building list of top 20 words for topics
-    const top20Words = tfidfData.map((w, idx) =>
+    const top20Words = tfidfJson[topic].map((w, idx) =>
         <ListItem key={w.word} button>
         <Grid item xs={1}>
             <ListItemText primary={idx+1} />

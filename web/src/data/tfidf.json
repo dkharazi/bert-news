@@ -1,0 +1,2052 @@
+{
+    "Baseball": [
+        {
+            "word": "mets",
+            "tfidf": 0.026877324097796057
+        },
+        {
+            "word": "yankees",
+            "tfidf": 0.025945868048677555
+        },
+        {
+            "word": "baseball",
+            "tfidf": 0.01850179271297168
+        },
+        {
+            "word": "game",
+            "tfidf": 0.01612774451237032
+        },
+        {
+            "word": "season",
+            "tfidf": 0.01409456787280304
+        },
+        {
+            "word": "cubs",
+            "tfidf": 0.013302350373005988
+        },
+        {
+            "word": "innings",
+            "tfidf": 0.011392720954097716
+        },
+        {
+            "word": "games",
+            "tfidf": 0.011112108499799447
+        },
+        {
+            "word": "league",
+            "tfidf": 0.010706047821673486
+        },
+        {
+            "word": "players",
+            "tfidf": 0.009440662924812465
+        },
+        {
+            "word": "inning",
+            "tfidf": 0.008836579249453597
+        },
+        {
+            "word": "sox",
+            "tfidf": 0.007990999780282724
+        },
+        {
+            "word": "team",
+            "tfidf": 0.007895120763281678
+        },
+        {
+            "word": "field",
+            "tfidf": 0.007625623259327921
+        },
+        {
+            "word": "runs",
+            "tfidf": 0.007525789799817961
+        },
+        {
+            "word": "girardi",
+            "tfidf": 0.0074050519992552135
+        },
+        {
+            "word": "pitcher",
+            "tfidf": 0.007291349675533735
+        },
+        {
+            "word": "series",
+            "tfidf": 0.007220660055920209
+        },
+        {
+            "word": "cespedes",
+            "tfidf": 0.006925582353694211
+        },
+        {
+            "word": "pitching",
+            "tfidf": 0.006808632355297306
+        }
+    ],
+    "Nuclear": [
+        {
+            "word": "korea",
+            "tfidf": 0.028764622295791475
+        },
+        {
+            "word": "north",
+            "tfidf": 0.021535102490459264
+        },
+        {
+            "word": "nuclear",
+            "tfidf": 0.01839553541464011
+        },
+        {
+            "word": "korean",
+            "tfidf": 0.017146426584141783
+        },
+        {
+            "word": "china",
+            "tfidf": 0.0170552496748601
+        },
+        {
+            "word": "missile",
+            "tfidf": 0.014948238224174909
+        },
+        {
+            "word": "iran",
+            "tfidf": 0.014449149709160301
+        },
+        {
+            "word": "kim",
+            "tfidf": 0.01356315218547992
+        },
+        {
+            "word": "south",
+            "tfidf": 0.011289424853322442
+        },
+        {
+            "word": "chinese",
+            "tfidf": 0.009027599573711844
+        },
+        {
+            "word": "pyongyang",
+            "tfidf": 0.0087932606093355
+        },
+        {
+            "word": "japan",
+            "tfidf": 0.008140365445064204
+        },
+        {
+            "word": "missiles",
+            "tfidf": 0.007488429046603287
+        },
+        {
+            "word": "sanctions",
+            "tfidf": 0.007117424122851026
+        },
+        {
+            "word": "beijing",
+            "tfidf": 0.007065261257001061
+        },
+        {
+            "word": "iranian",
+            "tfidf": 0.0069571524394168825
+        },
+        {
+            "word": "ballistic",
+            "tfidf": 0.006796965649846702
+        },
+        {
+            "word": "test",
+            "tfidf": 0.00663467315189924
+        },
+        {
+            "word": "weapons",
+            "tfidf": 0.006519515194087332
+        },
+        {
+            "word": "park",
+            "tfidf": 0.006193946991217917
+        }
+    ],
+    "Cuba Relations": [
+        {
+            "word": "castro",
+            "tfidf": 0.07529187189565043
+        },
+        {
+            "word": "cuba",
+            "tfidf": 0.06959109385093998
+        },
+        {
+            "word": "cuban",
+            "tfidf": 0.05079174766515952
+        },
+        {
+            "word": "fidel",
+            "tfidf": 0.031864719662364926
+        },
+        {
+            "word": "cubans",
+            "tfidf": 0.024743876196963242
+        },
+        {
+            "word": "havana",
+            "tfidf": 0.023156461002399365
+        },
+        {
+            "word": "raúl",
+            "tfidf": 0.011304998355656305
+        },
+        {
+            "word": "island",
+            "tfidf": 0.0107327616218835
+        },
+        {
+            "word": "miami",
+            "tfidf": 0.009194478633208658
+        },
+        {
+            "word": "revolution",
+            "tfidf": 0.00906445375728393
+        },
+        {
+            "word": "raul",
+            "tfidf": 0.008674674983703433
+        },
+        {
+            "word": "embargo",
+            "tfidf": 0.008623404568532589
+        },
+        {
+            "word": "communist",
+            "tfidf": 0.008579874068460912
+        },
+        {
+            "word": "relations",
+            "tfidf": 0.007894898798471486
+        },
+        {
+            "word": "regime",
+            "tfidf": 0.007870281592370215
+        },
+        {
+            "word": "dictator",
+            "tfidf": 0.007193976875216295
+        },
+        {
+            "word": "flights",
+            "tfidf": 0.0065945554906671955
+        },
+        {
+            "word": "brother",
+            "tfidf": 0.006288325036046171
+        },
+        {
+            "word": "1959",
+            "tfidf": 0.005909634204999551
+        },
+        {
+            "word": "death",
+            "tfidf": 0.005605643382462981
+        }
+    ],
+    "Space": [
+        {
+            "word": "space",
+            "tfidf": 0.030330283332965283
+        },
+        {
+            "word": "nasa",
+            "tfidf": 0.025452691822942956
+        },
+        {
+            "word": "earth",
+            "tfidf": 0.01885176153456741
+        },
+        {
+            "word": "planet",
+            "tfidf": 0.017112883305708475
+        },
+        {
+            "word": "moon",
+            "tfidf": 0.013826234198977608
+        },
+        {
+            "word": "mars",
+            "tfidf": 0.012048918069816136
+        },
+        {
+            "word": "spacecraft",
+            "tfidf": 0.011313217485475022
+        },
+        {
+            "word": "solar",
+            "tfidf": 0.01097227951690242
+        },
+        {
+            "word": "planets",
+            "tfidf": 0.01078801565020422
+        },
+        {
+            "word": "mission",
+            "tfidf": 0.010704425316203345
+        },
+        {
+            "word": "jupiter",
+            "tfidf": 0.010057263257961899
+        },
+        {
+            "word": "spacex",
+            "tfidf": 0.01004733056416447
+        },
+        {
+            "word": "asteroid",
+            "tfidf": 0.01003357488625945
+        },
+        {
+            "word": "orbit",
+            "tfidf": 0.009987132413443149
+        },
+        {
+            "word": "rocket",
+            "tfidf": 0.009805075635485836
+        },
+        {
+            "word": "astronauts",
+            "tfidf": 0.009648116991545948
+        },
+        {
+            "word": "scientists",
+            "tfidf": 0.009283440234966236
+        },
+        {
+            "word": "telescope",
+            "tfidf": 0.008145184538407074
+        },
+        {
+            "word": "launch",
+            "tfidf": 0.008024832839602517
+        },
+        {
+            "word": "juno",
+            "tfidf": 0.007614371776309186
+        }
+    ],
+    "Terrorism and War": [
+        {
+            "word": "isis",
+            "tfidf": 0.009763228704807354
+        },
+        {
+            "word": "syria",
+            "tfidf": 0.009738773831568022
+        },
+        {
+            "word": "forces",
+            "tfidf": 0.008861407887974336
+        },
+        {
+            "word": "islamic",
+            "tfidf": 0.008779163738018183
+        },
+        {
+            "word": "syrian",
+            "tfidf": 0.008471009857428678
+        },
+        {
+            "word": "attack",
+            "tfidf": 0.007413426254574422
+        },
+        {
+            "word": "killed",
+            "tfidf": 0.006461879797190291
+        },
+        {
+            "word": "turkey",
+            "tfidf": 0.006455141093296472
+        },
+        {
+            "word": "military",
+            "tfidf": 0.006267966610804599
+        },
+        {
+            "word": "attacks",
+            "tfidf": 0.006187736243462645
+        },
+        {
+            "word": "iraq",
+            "tfidf": 0.005950796126518485
+        },
+        {
+            "word": "fighters",
+            "tfidf": 0.005936111119637875
+        },
+        {
+            "word": "aleppo",
+            "tfidf": 0.005841602241364306
+        },
+        {
+            "word": "iraqi",
+            "tfidf": 0.00565069259219488
+        },
+        {
+            "word": "civilians",
+            "tfidf": 0.005521868637207606
+        },
+        {
+            "word": "mosul",
+            "tfidf": 0.0055005198965268915
+        },
+        {
+            "word": "terrorist",
+            "tfidf": 0.004763571187171042
+        },
+        {
+            "word": "militants",
+            "tfidf": 0.004706315597567125
+        },
+        {
+            "word": "turkish",
+            "tfidf": 0.004565554303785527
+        },
+        {
+            "word": "assad",
+            "tfidf": 0.004426402531759908
+        }
+    ],
+    "Crime": [
+        {
+            "word": "police",
+            "tfidf": 0.006671609678219614
+        },
+        {
+            "word": "officers",
+            "tfidf": 0.0059425055554614475
+        },
+        {
+            "word": "officer",
+            "tfidf": 0.005262461477650335
+        },
+        {
+            "word": "shooting",
+            "tfidf": 0.004678272704554204
+        },
+        {
+            "word": "prison",
+            "tfidf": 0.004129814032578966
+        },
+        {
+            "word": "shot",
+            "tfidf": 0.003946176494354644
+        },
+        {
+            "word": "death",
+            "tfidf": 0.003856183683571666
+        },
+        {
+            "word": "authorities",
+            "tfidf": 0.0036588379861931986
+        },
+        {
+            "word": "county",
+            "tfidf": 0.0036499932396103158
+        },
+        {
+            "word": "man",
+            "tfidf": 0.0036497266871402673
+        },
+        {
+            "word": "charges",
+            "tfidf": 0.003621948842650753
+        },
+        {
+            "word": "case",
+            "tfidf": 0.0035689908033071133
+        },
+        {
+            "word": "gun",
+            "tfidf": 0.003388063511334173
+        },
+        {
+            "word": "murder",
+            "tfidf": 0.003384493978220151
+        },
+        {
+            "word": "enforcement",
+            "tfidf": 0.0033261147391607645
+        },
+        {
+            "word": "black",
+            "tfidf": 0.003322811259686645
+        },
+        {
+            "word": "attorney",
+            "tfidf": 0.0032425458543453426
+        },
+        {
+            "word": "video",
+            "tfidf": 0.0032247297324705954
+        },
+        {
+            "word": "arrested",
+            "tfidf": 0.0032110925475437235
+        },
+        {
+            "word": "prosecutors",
+            "tfidf": 0.0032039607415461314
+        }
+    ],
+    "Brexit": [
+        {
+            "word": "britain",
+            "tfidf": 0.032175044050630014
+        },
+        {
+            "word": "european",
+            "tfidf": 0.029744920878475262
+        },
+        {
+            "word": "brexit",
+            "tfidf": 0.02232864248202805
+        },
+        {
+            "word": "union",
+            "tfidf": 0.02078655261234272
+        },
+        {
+            "word": "eu",
+            "tfidf": 0.020001326752374732
+        },
+        {
+            "word": "referendum",
+            "tfidf": 0.01977631213697463
+        },
+        {
+            "word": "british",
+            "tfidf": 0.016719490799884086
+        },
+        {
+            "word": "cameron",
+            "tfidf": 0.015292617142055643
+        },
+        {
+            "word": "minister",
+            "tfidf": 0.011829713894150634
+        },
+        {
+            "word": "prime",
+            "tfidf": 0.011674034288193583
+        },
+        {
+            "word": "leave",
+            "tfidf": 0.011629673570925817
+        },
+        {
+            "word": "europe",
+            "tfidf": 0.01162379116963754
+        },
+        {
+            "word": "london",
+            "tfidf": 0.011340656230675998
+        },
+        {
+            "word": "parliament",
+            "tfidf": 0.010565384459663754
+        },
+        {
+            "word": "labour",
+            "tfidf": 0.009635415627625744
+        },
+        {
+            "word": "vote",
+            "tfidf": 0.009170719317666018
+        },
+        {
+            "word": "uk",
+            "tfidf": 0.009126693587394924
+        },
+        {
+            "word": "bloc",
+            "tfidf": 0.009021308381030366
+        },
+        {
+            "word": "corbyn",
+            "tfidf": 0.007744959231202284
+        },
+        {
+            "word": "renzi",
+            "tfidf": 0.007388303098645496
+        }
+    ],
+    "Football": [
+        {
+            "word": "nfl",
+            "tfidf": 0.02081090918344618
+        },
+        {
+            "word": "game",
+            "tfidf": 0.015497257641271252
+        },
+        {
+            "word": "quarterback",
+            "tfidf": 0.014630575500652963
+        },
+        {
+            "word": "giants",
+            "tfidf": 0.013677650855690133
+        },
+        {
+            "word": "football",
+            "tfidf": 0.013429317529358801
+        },
+        {
+            "word": "jets",
+            "tfidf": 0.012415231879766854
+        },
+        {
+            "word": "bowl",
+            "tfidf": 0.012250710732351915
+        },
+        {
+            "word": "season",
+            "tfidf": 0.012081079155164593
+        },
+        {
+            "word": "yards",
+            "tfidf": 0.011272109740068063
+        },
+        {
+            "word": "patriots",
+            "tfidf": 0.010981189069802336
+        },
+        {
+            "word": "brady",
+            "tfidf": 0.01080647463240365
+        },
+        {
+            "word": "kaepernick",
+            "tfidf": 0.009844689805919505
+        },
+        {
+            "word": "players",
+            "tfidf": 0.00968370234331018
+        },
+        {
+            "word": "super",
+            "tfidf": 0.009550627940256176
+        },
+        {
+            "word": "redskins",
+            "tfidf": 0.009263764200165366
+        },
+        {
+            "word": "coach",
+            "tfidf": 0.008854124917701049
+        },
+        {
+            "word": "team",
+            "tfidf": 0.00865556924814046
+        },
+        {
+            "word": "touchdown",
+            "tfidf": 0.008441952900907282
+        },
+        {
+            "word": "league",
+            "tfidf": 0.008012375652337908
+        },
+        {
+            "word": "play",
+            "tfidf": 0.0070859834530954385
+        }
+    ],
+    "Olympics": [
+        {
+            "word": "olympic",
+            "tfidf": 0.026716219490205122
+        },
+        {
+            "word": "rio",
+            "tfidf": 0.021547980737132787
+        },
+        {
+            "word": "olympics",
+            "tfidf": 0.020534408560211534
+        },
+        {
+            "word": "gold",
+            "tfidf": 0.019388372951124316
+        },
+        {
+            "word": "athletes",
+            "tfidf": 0.016073882166668545
+        },
+        {
+            "word": "medal",
+            "tfidf": 0.016005867698007114
+        },
+        {
+            "word": "games",
+            "tfidf": 0.013940079535715908
+        },
+        {
+            "word": "biles",
+            "tfidf": 0.0114153849797007
+        },
+        {
+            "word": "phelps",
+            "tfidf": 0.011305824732897415
+        },
+        {
+            "word": "medals",
+            "tfidf": 0.01047089527200969
+        },
+        {
+            "word": "marathon",
+            "tfidf": 0.009266171263688661
+        },
+        {
+            "word": "sport",
+            "tfidf": 0.00913365850500377
+        },
+        {
+            "word": "team",
+            "tfidf": 0.008005217189773199
+        },
+        {
+            "word": "brazil",
+            "tfidf": 0.006700242112822475
+        },
+        {
+            "word": "athlete",
+            "tfidf": 0.006657720294668718
+        },
+        {
+            "word": "bronze",
+            "tfidf": 0.006463492975660799
+        },
+        {
+            "word": "ledecky",
+            "tfidf": 0.006434462196487505
+        },
+        {
+            "word": "swimming",
+            "tfidf": 0.006341053190244417
+        },
+        {
+            "word": "sports",
+            "tfidf": 0.006313579386013862
+        },
+        {
+            "word": "runners",
+            "tfidf": 0.006302481369591127
+        }
+    ],
+    "Basketball": [
+        {
+            "word": "knicks",
+            "tfidf": 0.032864705113381604
+        },
+        {
+            "word": "nba",
+            "tfidf": 0.022643555971422678
+        },
+        {
+            "word": "warriors",
+            "tfidf": 0.01851334288878911
+        },
+        {
+            "word": "game",
+            "tfidf": 0.018073174418869138
+        },
+        {
+            "word": "anthony",
+            "tfidf": 0.01660885544569645
+        },
+        {
+            "word": "basketball",
+            "tfidf": 0.015030793624477611
+        },
+        {
+            "word": "curry",
+            "tfidf": 0.014287263770624748
+        },
+        {
+            "word": "jackson",
+            "tfidf": 0.013850332639629512
+        },
+        {
+            "word": "season",
+            "tfidf": 0.013172592619347162
+        },
+        {
+            "word": "coach",
+            "tfidf": 0.012838410986996708
+        },
+        {
+            "word": "finals",
+            "tfidf": 0.012054353730586661
+        },
+        {
+            "word": "players",
+            "tfidf": 0.01201820871679027
+        },
+        {
+            "word": "oakley",
+            "tfidf": 0.01139679865154485
+        },
+        {
+            "word": "hornacek",
+            "tfidf": 0.011235181007810973
+        },
+        {
+            "word": "games",
+            "tfidf": 0.011230717834997656
+        },
+        {
+            "word": "cavaliers",
+            "tfidf": 0.011152628606624191
+        },
+        {
+            "word": "team",
+            "tfidf": 0.010854055374079527
+        },
+        {
+            "word": "player",
+            "tfidf": 0.010558953501379201
+        },
+        {
+            "word": "porzingis",
+            "tfidf": 0.00995054845169838
+        },
+        {
+            "word": "james",
+            "tfidf": 0.009013606927774314
+        }
+    ],
+    "Protesting and Activism": [
+        {
+            "word": "protesters",
+            "tfidf": 0.015038194917365608
+        },
+        {
+            "word": "protest",
+            "tfidf": 0.00936046009736196
+        },
+        {
+            "word": "protests",
+            "tfidf": 0.008864172190460836
+        },
+        {
+            "word": "university",
+            "tfidf": 0.006052764972069827
+        },
+        {
+            "word": "pipeline",
+            "tfidf": 0.005865810361480707
+        },
+        {
+            "word": "students",
+            "tfidf": 0.005645030801635993
+        },
+        {
+            "word": "campus",
+            "tfidf": 0.0054068077712574585
+        },
+        {
+            "word": "milo",
+            "tfidf": 0.005314941961270907
+        },
+        {
+            "word": "rally",
+            "tfidf": 0.005045266475066836
+        },
+        {
+            "word": "event",
+            "tfidf": 0.004929050542746691
+        },
+        {
+            "word": "speech",
+            "tfidf": 0.004717631418821941
+        },
+        {
+            "word": "yiannopoulos",
+            "tfidf": 0.004608231889200861
+        },
+        {
+            "word": "demonstrators",
+            "tfidf": 0.0045884522808982324
+        },
+        {
+            "word": "crowd",
+            "tfidf": 0.004181440630688585
+        },
+        {
+            "word": "march",
+            "tfidf": 0.00401204439521532
+        },
+        {
+            "word": "berkeley",
+            "tfidf": 0.003917497845234017
+        },
+        {
+            "word": "police",
+            "tfidf": 0.003891358708305522
+        },
+        {
+            "word": "student",
+            "tfidf": 0.003778403238441647
+        },
+        {
+            "word": "dakota",
+            "tfidf": 0.003598930457253895
+        },
+        {
+            "word": "activists",
+            "tfidf": 0.0035480031000530285
+        }
+    ],
+    "LGBTQ Discrimination": [
+        {
+            "word": "transgender",
+            "tfidf": 0.023068034804495943
+        },
+        {
+            "word": "abortion",
+            "tfidf": 0.01749321124601372
+        },
+        {
+            "word": "gender",
+            "tfidf": 0.010268699820968402
+        },
+        {
+            "word": "law",
+            "tfidf": 0.00964373717870806
+        },
+        {
+            "word": "bathroom",
+            "tfidf": 0.009459523859029744
+        },
+        {
+            "word": "rights",
+            "tfidf": 0.009092463874882646
+        },
+        {
+            "word": "carolina",
+            "tfidf": 0.009022959807911176
+        },
+        {
+            "word": "gay",
+            "tfidf": 0.007973948433218579
+        },
+        {
+            "word": "discrimination",
+            "tfidf": 0.007586919591946048
+        },
+        {
+            "word": "abortions",
+            "tfidf": 0.00745793061369636
+        },
+        {
+            "word": "bathrooms",
+            "tfidf": 0.007005472255665357
+        },
+        {
+            "word": "students",
+            "tfidf": 0.006779393403092264
+        },
+        {
+            "word": "texas",
+            "tfidf": 0.006623405159312121
+        },
+        {
+            "word": "court",
+            "tfidf": 0.006510443951992811
+        },
+        {
+            "word": "school",
+            "tfidf": 0.006197928270197436
+        },
+        {
+            "word": "sex",
+            "tfidf": 0.005853164662802642
+        },
+        {
+            "word": "identity",
+            "tfidf": 0.0057595596124572655
+        },
+        {
+            "word": "laws",
+            "tfidf": 0.005744627312127352
+        },
+        {
+            "word": "supreme",
+            "tfidf": 0.005580402563329092
+        },
+        {
+            "word": "measure",
+            "tfidf": 0.005466090484664261
+        }
+    ],
+    "Segregation and Racial Discrimination": [
+        {
+            "word": "black",
+            "tfidf": 0.0275740309187758
+        },
+        {
+            "word": "dolezal",
+            "tfidf": 0.011717147297037527
+        },
+        {
+            "word": "schools",
+            "tfidf": 0.010789862226748128
+        },
+        {
+            "word": "students",
+            "tfidf": 0.010246203350548624
+        },
+        {
+            "word": "greenberg",
+            "tfidf": 0.00966340919638987
+        },
+        {
+            "word": "school",
+            "tfidf": 0.009527301782474858
+        },
+        {
+            "word": "racial",
+            "tfidf": 0.009292990384667743
+        },
+        {
+            "word": "housing",
+            "tfidf": 0.008298455458404089
+        },
+        {
+            "word": "segregation",
+            "tfidf": 0.007846214821603316
+        },
+        {
+            "word": "education",
+            "tfidf": 0.007466470922904082
+        },
+        {
+            "word": "teachers",
+            "tfidf": 0.00656329969657708
+        },
+        {
+            "word": "african",
+            "tfidf": 0.006457296843284322
+        },
+        {
+            "word": "blacks",
+            "tfidf": 0.006431417205787326
+        },
+        {
+            "word": "hbcus",
+            "tfidf": 0.006072241958968492
+        },
+        {
+            "word": "naacp",
+            "tfidf": 0.006044403432506269
+        },
+        {
+            "word": "civil",
+            "tfidf": 0.005631523836008266
+        },
+        {
+            "word": "color",
+            "tfidf": 0.0051612026637127386
+        },
+        {
+            "word": "segregated",
+            "tfidf": 0.005069302199966559
+        },
+        {
+            "word": "race",
+            "tfidf": 0.004860153230081478
+        },
+        {
+            "word": "marshall",
+            "tfidf": 0.004596754728543215
+        }
+    ],
+    "Politics": [
+        {
+            "word": "republicans",
+            "tfidf": 0.002820681248188439
+        },
+        {
+            "word": "republican",
+            "tfidf": 0.0027464679499241917
+        },
+        {
+            "word": "hillary",
+            "tfidf": 0.0027176111994545757
+        },
+        {
+            "word": "democrats",
+            "tfidf": 0.0027028007671152927
+        },
+        {
+            "word": "election",
+            "tfidf": 0.002676291279869833
+        },
+        {
+            "word": "donald",
+            "tfidf": 0.0026474744726591717
+        },
+        {
+            "word": "presidential",
+            "tfidf": 0.002630106820787001
+        },
+        {
+            "word": "senate",
+            "tfidf": 0.0025799804920662865
+        },
+        {
+            "word": "voters",
+            "tfidf": 0.002575335571839777
+        },
+        {
+            "word": "democratic",
+            "tfidf": 0.0025426302077775093
+        },
+        {
+            "word": "gop",
+            "tfidf": 0.0023797951163788923
+        },
+        {
+            "word": "comey",
+            "tfidf": 0.0023763737111797646
+        },
+        {
+            "word": "party",
+            "tfidf": 0.0023607978258617175
+        },
+        {
+            "word": "sanders",
+            "tfidf": 0.0023585667678158507
+        },
+        {
+            "word": "cruz",
+            "tfidf": 0.002331125355104766
+        },
+        {
+            "word": "vote",
+            "tfidf": 0.002317320718985453
+        },
+        {
+            "word": "candidate",
+            "tfidf": 0.0023129334666131523
+        },
+        {
+            "word": "nominee",
+            "tfidf": 0.0022837615057595658
+        },
+        {
+            "word": "committee",
+            "tfidf": 0.0022549972851588973
+        },
+        {
+            "word": "campaign",
+            "tfidf": 0.0022087865874062538
+        }
+    ],
+    "U.S. Illegal Immigration": [
+        {
+            "word": "mexico",
+            "tfidf": 0.03428123956142969
+        },
+        {
+            "word": "border",
+            "tfidf": 0.021405093658704466
+        },
+        {
+            "word": "wall",
+            "tfidf": 0.019719503345156254
+        },
+        {
+            "word": "mexican",
+            "tfidf": 0.018412975124867604
+        },
+        {
+            "word": "nieto",
+            "tfidf": 0.011552608670388131
+        },
+        {
+            "word": "peña",
+            "tfidf": 0.0112011920563612
+        },
+        {
+            "word": "immigration",
+            "tfidf": 0.011090900350686111
+        },
+        {
+            "word": "immigrants",
+            "tfidf": 0.009150663257512019
+        },
+        {
+            "word": "mexicans",
+            "tfidf": 0.00893543842677145
+        },
+        {
+            "word": "ford",
+            "tfidf": 0.006876126418295737
+        },
+        {
+            "word": "undocumented",
+            "tfidf": 0.006717876297741763
+        },
+        {
+            "word": "jobs",
+            "tfidf": 0.006601503624909168
+        },
+        {
+            "word": "pay",
+            "tfidf": 0.006185735509430871
+        },
+        {
+            "word": "carrier",
+            "tfidf": 0.006115988502021526
+        },
+        {
+            "word": "trade",
+            "tfidf": 0.005833465892008271
+        },
+        {
+            "word": "billion",
+            "tfidf": 0.005493511539620772
+        },
+        {
+            "word": "build",
+            "tfidf": 0.005484907159646555
+        },
+        {
+            "word": "illegal",
+            "tfidf": 0.005097101179279091
+        },
+        {
+            "word": "deportation",
+            "tfidf": 0.005004294865956622
+        },
+        {
+            "word": "workers",
+            "tfidf": 0.004986982262352484
+        }
+    ],
+    "Nazism and Syrian Refugee Crisis": [
+        {
+            "word": "german",
+            "tfidf": 0.027682351785281493
+        },
+        {
+            "word": "germany",
+            "tfidf": 0.027615053385306027
+        },
+        {
+            "word": "migrants",
+            "tfidf": 0.018589265923586038
+        },
+        {
+            "word": "merkel",
+            "tfidf": 0.016958244632796122
+        },
+        {
+            "word": "europe",
+            "tfidf": 0.011606153132347289
+        },
+        {
+            "word": "asylum",
+            "tfidf": 0.010702970425426948
+        },
+        {
+            "word": "turkey",
+            "tfidf": 0.01059686074679889
+        },
+        {
+            "word": "berlin",
+            "tfidf": 0.010374172511126363
+        },
+        {
+            "word": "refugees",
+            "tfidf": 0.009783853888674065
+        },
+        {
+            "word": "european",
+            "tfidf": 0.008889423628945108
+        },
+        {
+            "word": "cologne",
+            "tfidf": 0.00862243428460267
+        },
+        {
+            "word": "chancellor",
+            "tfidf": 0.00836825614903484
+        },
+        {
+            "word": "hitler",
+            "tfidf": 0.008094708667296648
+        },
+        {
+            "word": "turkish",
+            "tfidf": 0.007642367057286302
+        },
+        {
+            "word": "migrant",
+            "tfidf": 0.007059919039536364
+        },
+        {
+            "word": "seekers",
+            "tfidf": 0.006852302149524862
+        },
+        {
+            "word": "germans",
+            "tfidf": 0.006707061349382564
+        },
+        {
+            "word": "nazi",
+            "tfidf": 0.006683727280831494
+        },
+        {
+            "word": "greece",
+            "tfidf": 0.006378300139508218
+        },
+        {
+            "word": "angela",
+            "tfidf": 0.006209341984575351
+        }
+    ],
+    "Global Warming": [
+        {
+            "word": "storm",
+            "tfidf": 0.00833412422311709
+        },
+        {
+            "word": "water",
+            "tfidf": 0.007699247693134697
+        },
+        {
+            "word": "snow",
+            "tfidf": 0.006583945056689161
+        },
+        {
+            "word": "weather",
+            "tfidf": 0.0060701992778075435
+        },
+        {
+            "word": "hurricane",
+            "tfidf": 0.0051331336690143775
+        },
+        {
+            "word": "rain",
+            "tfidf": 0.004760845045255377
+        },
+        {
+            "word": "dogs",
+            "tfidf": 0.004378644906914606
+        },
+        {
+            "word": "animals",
+            "tfidf": 0.004325489375155697
+        },
+        {
+            "word": "animal",
+            "tfidf": 0.0041514738391397864
+        },
+        {
+            "word": "ice",
+            "tfidf": 0.004121563240503769
+        },
+        {
+            "word": "coast",
+            "tfidf": 0.004089170224333556
+        },
+        {
+            "word": "area",
+            "tfidf": 0.00401878440511773
+        },
+        {
+            "word": "sea",
+            "tfidf": 0.003983365568548051
+        },
+        {
+            "word": "flooding",
+            "tfidf": 0.003942652727287514
+        },
+        {
+            "word": "climate",
+            "tfidf": 0.003888716994323381
+        },
+        {
+            "word": "emergency",
+            "tfidf": 0.0038323607064881613
+        },
+        {
+            "word": "residents",
+            "tfidf": 0.0037938588939397822
+        },
+        {
+            "word": "temperatures",
+            "tfidf": 0.003723462659062606
+        },
+        {
+            "word": "dog",
+            "tfidf": 0.0036707324329925814
+        },
+        {
+            "word": "feet",
+            "tfidf": 0.0036231223710536885
+        }
+    ],
+    "Technology and Data Privacy": [
+        {
+            "word": "facebook",
+            "tfidf": 0.017818757742996683
+        },
+        {
+            "word": "users",
+            "tfidf": 0.012772997940918364
+        },
+        {
+            "word": "google",
+            "tfidf": 0.008285031782031181
+        },
+        {
+            "word": "twitter",
+            "tfidf": 0.007836897450096915
+        },
+        {
+            "word": "company",
+            "tfidf": 0.0074722406585115845
+        },
+        {
+            "word": "social",
+            "tfidf": 0.007406390465326138
+        },
+        {
+            "word": "online",
+            "tfidf": 0.007264095318193947
+        },
+        {
+            "word": "hackers",
+            "tfidf": 0.00725605113480626
+        },
+        {
+            "word": "software",
+            "tfidf": 0.007124046563743451
+        },
+        {
+            "word": "fake",
+            "tfidf": 0.007079992646912324
+        },
+        {
+            "word": "yahoo",
+            "tfidf": 0.006857183092036331
+        },
+        {
+            "word": "internet",
+            "tfidf": 0.006510439255631181
+        },
+        {
+            "word": "data",
+            "tfidf": 0.006278217868425384
+        },
+        {
+            "word": "content",
+            "tfidf": 0.005792576542566407
+        },
+        {
+            "word": "user",
+            "tfidf": 0.0056634842635611355
+        },
+        {
+            "word": "computer",
+            "tfidf": 0.005607319586786537
+        },
+        {
+            "word": "accounts",
+            "tfidf": 0.00556313762023066
+        },
+        {
+            "word": "wikileaks",
+            "tfidf": 0.005337991090095251
+        },
+        {
+            "word": "nsa",
+            "tfidf": 0.005111636221671684
+        },
+        {
+            "word": "information",
+            "tfidf": 0.005064386248839744
+        }
+    ],
+    "Food": [
+        {
+            "word": "food",
+            "tfidf": 0.013074916418484158
+        },
+        {
+            "word": "eat",
+            "tfidf": 0.006286444312894149
+        },
+        {
+            "word": "restaurant",
+            "tfidf": 0.006032815624497255
+        },
+        {
+            "word": "eating",
+            "tfidf": 0.005459861326510951
+        },
+        {
+            "word": "foods",
+            "tfidf": 0.005433600203089384
+        },
+        {
+            "word": "wine",
+            "tfidf": 0.004743152649993258
+        },
+        {
+            "word": "restaurants",
+            "tfidf": 0.004691086212660878
+        },
+        {
+            "word": "chicken",
+            "tfidf": 0.0043411989705091246
+        },
+        {
+            "word": "cheese",
+            "tfidf": 0.0043398359644569486
+        },
+        {
+            "word": "cooking",
+            "tfidf": 0.004334650146039977
+        },
+        {
+            "word": "study",
+            "tfidf": 0.004315719782737312
+        },
+        {
+            "word": "meat",
+            "tfidf": 0.004256823660352024
+        },
+        {
+            "word": "sugar",
+            "tfidf": 0.004005566134771154
+        },
+        {
+            "word": "chef",
+            "tfidf": 0.003967948265638938
+        },
+        {
+            "word": "diet",
+            "tfidf": 0.003846378882346775
+        },
+        {
+            "word": "recipe",
+            "tfidf": 0.003831407646064612
+        },
+        {
+            "word": "coffee",
+            "tfidf": 0.0034528841889872094
+        },
+        {
+            "word": "meal",
+            "tfidf": 0.003442060877521173
+        },
+        {
+            "word": "researchers",
+            "tfidf": 0.0033135063399393583
+        },
+        {
+            "word": "taste",
+            "tfidf": 0.003313430735974534
+        }
+    ],
+    "Medical Research": [
+        {
+            "word": "cancer",
+            "tfidf": 0.015952676060970773
+        },
+        {
+            "word": "doctors",
+            "tfidf": 0.010670720446336384
+        },
+        {
+            "word": "breast",
+            "tfidf": 0.009380350644663277
+        },
+        {
+            "word": "patients",
+            "tfidf": 0.00903106921770712
+        },
+        {
+            "word": "baby",
+            "tfidf": 0.007743403665704452
+        },
+        {
+            "word": "medical",
+            "tfidf": 0.007631073977109283
+        },
+        {
+            "word": "surgery",
+            "tfidf": 0.007054754587764018
+        },
+        {
+            "word": "hospital",
+            "tfidf": 0.0070431430739507726
+        },
+        {
+            "word": "women",
+            "tfidf": 0.006768502995978976
+        },
+        {
+            "word": "pregnant",
+            "tfidf": 0.00661174264831328
+        },
+        {
+            "word": "study",
+            "tfidf": 0.006473791906973177
+        },
+        {
+            "word": "babies",
+            "tfidf": 0.006127928442137325
+        },
+        {
+            "word": "mother",
+            "tfidf": 0.006072580606397446
+        },
+        {
+            "word": "disease",
+            "tfidf": 0.0059296802964879155
+        },
+        {
+            "word": "treatment",
+            "tfidf": 0.005879057450894798
+        },
+        {
+            "word": "dr",
+            "tfidf": 0.005631841204917495
+        },
+        {
+            "word": "health",
+            "tfidf": 0.005535013106637574
+        },
+        {
+            "word": "alzheimer",
+            "tfidf": 0.005510913745752918
+        },
+        {
+            "word": "pregnancy",
+            "tfidf": 0.005424552140832184
+        },
+        {
+            "word": "children",
+            "tfidf": 0.005338549541373125
+        }
+    ],
+    "Widespread Disease": [
+        {
+            "word": "zika",
+            "tfidf": 0.04951225732940461
+        },
+        {
+            "word": "virus",
+            "tfidf": 0.04059514653636174
+        },
+        {
+            "word": "disease",
+            "tfidf": 0.021337162578931035
+        },
+        {
+            "word": "mosquito",
+            "tfidf": 0.02006309368145626
+        },
+        {
+            "word": "mosquitoes",
+            "tfidf": 0.019791482782969085
+        },
+        {
+            "word": "cases",
+            "tfidf": 0.019432244537378775
+        },
+        {
+            "word": "tb",
+            "tfidf": 0.0191602858977187
+        },
+        {
+            "word": "ebola",
+            "tfidf": 0.017033797934618074
+        },
+        {
+            "word": "outbreak",
+            "tfidf": 0.01639352664903726
+        },
+        {
+            "word": "health",
+            "tfidf": 0.015378059496270325
+        },
+        {
+            "word": "infected",
+            "tfidf": 0.015137288405323086
+        },
+        {
+            "word": "microcephaly",
+            "tfidf": 0.014630148055273464
+        },
+        {
+            "word": "vaccine",
+            "tfidf": 0.013385383091478804
+        },
+        {
+            "word": "cdc",
+            "tfidf": 0.012682264712096531
+        },
+        {
+            "word": "fever",
+            "tfidf": 0.011536972204479625
+        },
+        {
+            "word": "brazil",
+            "tfidf": 0.011421418319552313
+        },
+        {
+            "word": "pregnant",
+            "tfidf": 0.010579691896601264
+        },
+        {
+            "word": "transmission",
+            "tfidf": 0.010378976920066585
+        },
+        {
+            "word": "spread",
+            "tfidf": 0.00996202115626626
+        },
+        {
+            "word": "infection",
+            "tfidf": 0.009793904530414503
+        }
+    ],
+    "Real Estate": [
+        {
+            "word": "square",
+            "tfidf": 0.010149996629038632
+        },
+        {
+            "word": "building",
+            "tfidf": 0.009812696244693895
+        },
+        {
+            "word": "million",
+            "tfidf": 0.007383860817699367
+        },
+        {
+            "word": "feet",
+            "tfidf": 0.007108801336777867
+        },
+        {
+            "word": "estate",
+            "tfidf": 0.006652652787387742
+        },
+        {
+            "word": "property",
+            "tfidf": 0.006621794022694977
+        },
+        {
+            "word": "st",
+            "tfidf": 0.006366894814072994
+        },
+        {
+            "word": "space",
+            "tfidf": 0.005936427252380574
+        },
+        {
+            "word": "listing",
+            "tfidf": 0.005874910596249891
+        },
+        {
+            "word": "art",
+            "tfidf": 0.005768570333888994
+        },
+        {
+            "word": "room",
+            "tfidf": 0.0055976419916552835
+        },
+        {
+            "word": "elliman",
+            "tfidf": 0.0055858348821070485
+        },
+        {
+            "word": "city",
+            "tfidf": 0.0055087960579855546
+        },
+        {
+            "word": "floors",
+            "tfidf": 0.005276007799830405
+        },
+        {
+            "word": "development",
+            "tfidf": 0.005139994128955866
+        },
+        {
+            "word": "douglas",
+            "tfidf": 0.004933226309735833
+        },
+        {
+            "word": "stone",
+            "tfidf": 0.004917950973194311
+        },
+        {
+            "word": "home",
+            "tfidf": 0.004842924901952693
+        },
+        {
+            "word": "hotel",
+            "tfidf": 0.0047901008691082604
+        },
+        {
+            "word": "apartments",
+            "tfidf": 0.004747721871407211
+        }
+    ],
+    "Business and Finance": [
+        {
+            "word": "company",
+            "tfidf": 0.009119401122118792
+        },
+        {
+            "word": "percent",
+            "tfidf": 0.009074569970935538
+        },
+        {
+            "word": "growth",
+            "tfidf": 0.007779648176935867
+        },
+        {
+            "word": "billion",
+            "tfidf": 0.0071656080794248464
+        },
+        {
+            "word": "economy",
+            "tfidf": 0.0068974732199499076
+        },
+        {
+            "word": "market",
+            "tfidf": 0.006722182727809203
+        },
+        {
+            "word": "investors",
+            "tfidf": 0.006583256607632676
+        },
+        {
+            "word": "stock",
+            "tfidf": 0.006062371345839206
+        },
+        {
+            "word": "rate",
+            "tfidf": 0.0058711748069149
+        },
+        {
+            "word": "bank",
+            "tfidf": 0.0056931535518712755
+        },
+        {
+            "word": "prices",
+            "tfidf": 0.005428121683815533
+        },
+        {
+            "word": "million",
+            "tfidf": 0.005421540625523902
+        },
+        {
+            "word": "jobs",
+            "tfidf": 0.005368376144432434
+        },
+        {
+            "word": "economic",
+            "tfidf": 0.0050826140618971056
+        },
+        {
+            "word": "rates",
+            "tfidf": 0.0047810410701849045
+        },
+        {
+            "word": "workers",
+            "tfidf": 0.004621399273517539
+        },
+        {
+            "word": "revenue",
+            "tfidf": 0.004513419607040446
+        },
+        {
+            "word": "companies",
+            "tfidf": 0.004454864826386442
+        },
+        {
+            "word": "sales",
+            "tfidf": 0.004364084843730655
+        },
+        {
+            "word": "income",
+            "tfidf": 0.004330186993793118
+        }
+    ],
+    "Music": [
+        {
+            "word": "music",
+            "tfidf": 0.02185836002060185
+        },
+        {
+            "word": "album",
+            "tfidf": 0.020753305413783663
+        },
+        {
+            "word": "song",
+            "tfidf": 0.014633273947544847
+        },
+        {
+            "word": "songs",
+            "tfidf": 0.014587942569463783
+        },
+        {
+            "word": "band",
+            "tfidf": 0.013463398728262377
+        },
+        {
+            "word": "pop",
+            "tfidf": 0.008039008297795882
+        },
+        {
+            "word": "rock",
+            "tfidf": 0.007478098589863136
+        },
+        {
+            "word": "jazz",
+            "tfidf": 0.007009180234670964
+        },
+        {
+            "word": "guitar",
+            "tfidf": 0.0064668185677503294
+        },
+        {
+            "word": "singer",
+            "tfidf": 0.006172637469756883
+        },
+        {
+            "word": "artists",
+            "tfidf": 0.005695969381097999
+        },
+        {
+            "word": "albums",
+            "tfidf": 0.005691865372714428
+        },
+        {
+            "word": "sound",
+            "tfidf": 0.005515666024018127
+        },
+        {
+            "word": "dylan",
+            "tfidf": 0.005086730057449501
+        },
+        {
+            "word": "love",
+            "tfidf": 0.004974254435148844
+        },
+        {
+            "word": "musical",
+            "tfidf": 0.004791354266319162
+        },
+        {
+            "word": "musicians",
+            "tfidf": 0.004664370488477648
+        },
+        {
+            "word": "artist",
+            "tfidf": 0.004656196340716933
+        },
+        {
+            "word": "record",
+            "tfidf": 0.004291562536179693
+        },
+        {
+            "word": "lyrics",
+            "tfidf": 0.004027034542693203
+        }
+    ],
+    "Pop Culture and Entertainment": [
+        {
+            "word": "film",
+            "tfidf": 0.006564307518162079
+        },
+        {
+            "word": "movie",
+            "tfidf": 0.0065394560608323105
+        },
+        {
+            "word": "fashion",
+            "tfidf": 0.006140156962742609
+        },
+        {
+            "word": "love",
+            "tfidf": 0.004753715332849504
+        },
+        {
+            "word": "character",
+            "tfidf": 0.00426637642203611
+        },
+        {
+            "word": "ms",
+            "tfidf": 0.004110079984509781
+        },
+        {
+            "word": "characters",
+            "tfidf": 0.003861240462369167
+        },
+        {
+            "word": "movies",
+            "tfidf": 0.0036899289689984968
+        },
+        {
+            "word": "women",
+            "tfidf": 0.0036578104646131904
+        },
+        {
+            "word": "woman",
+            "tfidf": 0.003586893789073243
+        },
+        {
+            "word": "comedy",
+            "tfidf": 0.003514050113676932
+        },
+        {
+            "word": "life",
+            "tfidf": 0.0034403824263815595
+        },
+        {
+            "word": "dress",
+            "tfidf": 0.003371820433183383
+        },
+        {
+            "word": "series",
+            "tfidf": 0.0032629763396735422
+        },
+        {
+            "word": "hollywood",
+            "tfidf": 0.0032279309213341305
+        },
+        {
+            "word": "book",
+            "tfidf": 0.0031470378195030393
+        },
+        {
+            "word": "star",
+            "tfidf": 0.0031362796557829965
+        },
+        {
+            "word": "mother",
+            "tfidf": 0.0031151179782102313
+        },
+        {
+            "word": "tv",
+            "tfidf": 0.003109535305016438
+        },
+        {
+            "word": "girl",
+            "tfidf": 0.0030746767252788076
+        }
+    ]
+}
