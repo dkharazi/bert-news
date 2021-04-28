@@ -5,6 +5,7 @@ import { Grid, Paper } from '@material-ui/core';
 import NewsBar from './components/NewsBar';
 import Topic from './components/Topic';
 import Publication from './components/Publication';
+import Classify from './components/Classify';
 
 import layoutStyles from './styles/layout.module.css';
 import './styles/index.css';
@@ -35,7 +36,7 @@ const Index = () => {
 			</Grid>
 			<Grid item xs={12}>
 				<Paper className={layoutStyles.topicContainer}>
-					{!tab ? <Topic topic={topic} handleChangeTopic={handleChangeTopic} /> : <Publication />}
+					{!tab ? <Topic topic={topic} handleChangeTopic={handleChangeTopic} /> : <Classify />}
 				</Paper>
 			</Grid>
 		</Grid>
