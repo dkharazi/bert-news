@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Grid, Paper } from '@material-ui/core';
-
 import NewsBar from './components/NewsBar';
 import Topic from './components/Topic';
 import Publication from './components/Publication';
 import Classify from './components/Classify';
-
 import layoutStyles from './styles/layout.module.css';
 import './styles/index.css';
+import sampleArticle from '../data/article.js';
 
 
 const Index = () => {
@@ -16,6 +15,10 @@ const Index = () => {
 	// Define state variables
 	const [tab, setTab] = React.useState(0);
 	const [topic, setTopic] = React.useState('Baseball');
+	const [error, setError] = useState(null);
+	const [items, setItems] = useState(null);
+	const [article, setArticle] = useState(sampleArticle);
+	const [submittedArticle, submitArticle] = useState(null);
 
 	// Define state handlers
 	const handleChangeTab = (event, newTab) => { setTab(newTab); };
@@ -28,7 +31,7 @@ const Index = () => {
 		} else if (tab === 1) {
 			return <Publication />;
 		} else {
-			return <Classify />;
+			return <Classify error={error} setError={setError} items={items} setItems={setItems} article={article} setArticle={setArticle} submittedArticle={submittedArticle} submitArticle={submitArticle} />;
 		}
 	}
 

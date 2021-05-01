@@ -3,15 +3,9 @@ import { Grid } from '@material-ui/core';
 import BarChart from './BarChart';
 import ArticleInput from './ArticleInput';
 import layoutStyles from '../styles/layout.module.css';
-import sampleArticle from '../data/article.js';
 
 
-const Classify = () => {
-
-    const [error, setError] = useState(null);
-	const [items, setItems] = useState(null);
-	const [article, setArticle] = useState(sampleArticle);
-	const [submittedArticle, submitArticle] = useState(null);
+const Classify = ({ error, setError, items, setItems, article, setArticle, submitArticle, submitArticle }) => {
 
     const API_URL = "https://api-inference.huggingface.co/models/dkhara/bert-news";
 
