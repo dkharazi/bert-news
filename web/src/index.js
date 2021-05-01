@@ -1,4 +1,4 @@
-import React from 'react';
+import { useState } from 'react';
 import ReactDOM from 'react-dom';
 import { Grid, Paper } from '@material-ui/core';
 import NewsBar from './components/NewsBar';
@@ -13,8 +13,8 @@ import sampleArticle from '../data/article.js';
 const Index = () => {
 
 	// Define state variables
-	const [tab, setTab] = React.useState(0);
-	const [topic, setTopic] = React.useState('Baseball');
+	const [tab, setTab] = useState(0);
+	const [topic, setTopic] = useState('Baseball');
 	const [error, setError] = useState(null);
 	const [items, setItems] = useState(null);
 	const [article, setArticle] = useState(sampleArticle);
