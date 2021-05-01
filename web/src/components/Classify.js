@@ -5,7 +5,7 @@ import ArticleInput from './ArticleInput';
 import layoutStyles from '../styles/layout.module.css';
 
 
-const Classify = ({ error, setError, items, setItems, article, setArticle, submitArticle, submitArticle }) => {
+const Classify = ({ error, setError, items, setItems, article, setArticle, submittedArticle, submitArticle }) => {
 
     const API_URL = "https://api-inference.huggingface.co/models/dkhara/bert-news";
 
