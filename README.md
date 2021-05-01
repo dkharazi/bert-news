@@ -31,6 +31,11 @@ The overall analysis can be broken down into the following stages:
     - Assign each article to its cluster
 7. Classify articles by assigning them to a cluster (or topic) using DistilBERT
 
+# Accessing Topics Predictions using a Hosted API
+After building the DistilBERT model used for classifying the topics of articles, the model was saved in [a Hugging Face model repo](https://huggingface.co/dkhara/bert-news). When a user clicks the *learn topic* in the web app, an API call will be sent to the *hosted inference API*, which automatically encodes the article and classifies the article to assign it a topic. Specifically, it returns an array of 25 probabilities for each label.
+
+Note, in order to make this model work on Hugging Face, I needed to save both the DistilBERT tokenizer and the DistilBert model trained on the 100,000+ articles.
+
 # References
 ### Clustering on BERT Word Embeddings
 - [Code Example of K-Means Clustering on Embeddings](https://www.sbert.net/examples/applications/clustering/README.html#topic-modeling)
