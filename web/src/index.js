@@ -7,7 +7,7 @@ import Publication from './components/Publication';
 import Classify from './components/Classify';
 import layoutStyles from './styles/layout.module.css';
 import './styles/index.css';
-import sampleArticle from '../data/article.js';
+import sampleArticle from './data/article.js';
 
 
 const Index = () => {
