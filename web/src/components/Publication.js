@@ -1,5 +1,5 @@
 import { Grid } from '@material-ui/core';
-import Chart from './Chart';
+import ScatterChart from './ScatterChart';
 import layoutStyles from '../styles/layout.module.css';
 
 import pubJson from '../data/pub.json';
@@ -10,10 +10,10 @@ const Publication = () => {
 	return(
 		<Grid container>
 			<Grid item xs={6} className={layoutStyles.topicChartContainer}>
-				<Chart data={pubJson} chartType="publication" />
+				<ScatterChart data={pubJson} chartType="publication" />
 			</Grid>
 			<Grid item xs={6} className={layoutStyles.topicChartContainer}>
-				<Chart data={partyJson} chartType="party" />
+				<ScatterChart data={partyJson} chartType="party" />
 			</Grid>
 		</Grid>
 	);

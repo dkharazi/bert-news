@@ -4,7 +4,7 @@ import Tooltip from './Tooltip';
 import colorsJson from '../data/colors.json';
 
 
-const Chart = ({ data, chartType }) => {
+const ScatterChart = ({ data, chartType }) => {
 
     // Helper function for building tooltip
     const buildTooltip = (input) => {
@@ -33,4 +33,4 @@ const Chart = ({ data, chartType }) => {
     );
 }
 
-export default Chart;
+export default ScatterChart;

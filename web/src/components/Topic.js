@@ -1,5 +1,5 @@
 import { Grid } from '@material-ui/core';
-import Chart from './Chart';
+import ScatterChart from './ScatterChart';
 import Legend from './Legend';
 import Words from './Words';
 import layoutStyles from '../styles/layout.module.css';
@@ -11,7 +11,7 @@ const Topic = ({ topic, handleChangeTopic }) => {
 		<Grid container>
 			<Grid item xs={6} container direction="column">
 				<Grid item className={layoutStyles.topicChartContainer}>
-					<Chart data={topicsJson} chartType="cluster" />
+					<ScatterChart data={topicsJson} chartType="cluster" />
 				</Grid>
 				<Grid item>
 					<Legend

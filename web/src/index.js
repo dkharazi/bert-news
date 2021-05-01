@@ -16,11 +16,21 @@ const Index = () => {
 	// Define state variables
 	const [tab, setTab] = React.useState(0);
 	const [topic, setTopic] = React.useState('Baseball');
-	console.log(tab);
 
 	// Define state handlers
 	const handleChangeTab = (event, newTab) => { setTab(newTab); };
 	const handleChangeTopic = (event, newTopic) => { setTopic(newTopic); };
+
+	// Helper function for returning output depending on tab
+	const chooseTab = () => {
+		if (!tab) {
+			return <Topic topic={topic} handleChangeTopic={handleChangeTopic} />;
+		} else if (tab === 1) {
+			return <Publication />;
+		} else {
+			return <Classify />;
+		}
+	}
 
 	return (
 		<Grid container className={layoutStyles.appContainer} spacing={2}>
@@ -36,7 +46,7 @@ const Index = () => {
 			</Grid>
 			<Grid item xs={12}>
 				<Paper className={layoutStyles.topicContainer}>
-					{!tab ? <Topic topic={topic} handleChangeTopic={handleChangeTopic} /> : <Classify />}
+					{chooseTab()}
 				</Paper>
 			</Grid>
 		</Grid>

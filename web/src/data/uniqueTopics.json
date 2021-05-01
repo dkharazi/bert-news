@@ -8,5 +8,32 @@
         "Protesting and Activism", "Real Estate", "Segregation and Racial Discrimination",
         "Space", "Technology and Data Privacy", "Terrorism and War",
         "U.S. Illegal Immigration", "Widespread Disease"
-    ]
+    ],
+    "labels": {
+        "LABEL_0": "Baseball",
+        "LABEL_1": "Nuclear",
+        "LABEL_2": "Cuba Relations",
+        "LABEL_3": "Space",
+        "LABEL_4": "Terrorism and War",
+        "LABEL_5": "Crime",
+        "LABEL_6": "Brexit",
+        "LABEL_7": "Football",
+        "LABEL_8": "Olympics",
+        "LABEL_9": "Basketball",
+        "LABEL_10": "Protesting and Activism",
+        "LABEL_11": "LGBTQ Discrimination",
+        "LABEL_12": "Segregation and Racial Discrimination",
+        "LABEL_13": "Politics",
+        "LABEL_14": "U.S. Illegal Immigration",
+        "LABEL_15": "Nazism and Syrian Refugee Crisis",
+        "LABEL_16": "Global Warming",
+        "LABEL_17": "Technology and Data Privacy",
+        "LABEL_18": "Food",
+        "LABEL_19": "Medical Research",
+        "LABEL_20": "Widespread Disease",
+        "LABEL_21": "Real Estate",
+        "LABEL_22": "Business and Finance",
+        "LABEL_23": "Music",
+        "LABEL_24": "Pop Culture and Entertainment"
+    }
 }
