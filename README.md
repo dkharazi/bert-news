@@ -17,6 +17,7 @@ After assigning a topic to its associated article, a separate DistilBERT model i
 
 I also used SMOTE for oversampling and undersampling imbalanced classes. A better way may have been to manually go through each of the unclassified articles and assign them to a cluster myself. However, it would have taken a lot of time to do this, so I just synthetically did this using SMOTE. [Here's a resource for other possible sampling techniques](https://towardsdatascience.com/how-i-handled-imbalanced-text-data-ba9b757ab1d8). The evaluated model with SMOTEN data and the model without SMOTEN data both had about 90% accuracy. So, I decided to just keep the model with SMOTEN data.
 
+# Summarizing the Process
 The overall analysis can be broken down into the following stages:
 1. Download the news articles from Kaggle as CSV files
 2. Serialize the articles into Parquet files
@@ -30,13 +31,14 @@ The overall analysis can be broken down into the following stages:
     - Assign each article to its cluster
 7. Classify articles by assigning them to a cluster (or topic) using DistilBERT
 
-Clustering on BERT Word Embeddings
+# References
+### Clustering on BERT Word Embeddings
 - [Code Example of K-Means Clustering on Embeddings](https://www.sbert.net/examples/applications/clustering/README.html#topic-modeling)
 - [How to Get Sentence Embeddings using BERT](https://datascience.stackexchange.com/a/65165/93566)
 - [Unsupervised Clustering on Media Data](https://www.kaggle.com/miguelniblock/predict-the-author-unsupervised-nlp-lsa-and-bow)
 - [Kaggle Analysis for Dimensionality Reduction using uMAP and tSNE](https://www.kaggle.com/vinayshanbhag/dimensionality-reduction-tsne-umap)
 - [Example of using kMeans with SBERT](https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/clustering/kmeans.py)
 
-Topic Modeling References
+### Topic Modeling References
 - [Example of Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6)
 - [Topic Modeling using S-BERT](https://www.sbert.net/examples/applications/clustering/README.html#topic-modeling)
